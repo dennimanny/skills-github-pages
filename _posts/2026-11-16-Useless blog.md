@@ -1,0 +1,4 @@
+---
+title: "Useless blog"
+date: 2026-11-16
+---
